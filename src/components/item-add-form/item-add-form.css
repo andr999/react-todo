@@ -1,0 +1,19 @@
+.item-add-form {
+    margin-top: 10px;
+    width: 500px;
+}
+.item-add-form input {
+    margin-right: 3px;
+}
+
+.item-add-form button {
+    font-size: 12px;
+    width: 100px;
+}
+
+@media (max-width: 480px){
+    item-add-form {
+        margin-top: 10px;
+        width: 400px;
+    }
+}
